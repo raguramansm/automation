@@ -1,0 +1,28 @@
+Java Crash course | 01 | Introduction | How much Java do we need for Automation | Automation
+
+1.	Project, Packages, Class
+2.	Primitive data types, Wrapper Classes
+3.	Methods (Functions), Constructors (Special functions)
+4.	Return Types – void, data types
+5.	Conditional statements and Looping
+6.	Static concepts
+7.	Inheritance (Access Modifiers)
+8.	Abstraction (Interface & Abstract class), encapsulation
+9.	Polymorphism (Overloading, Overriding)
+10.	String, StringBuffer, StringBuilder
+11.	Exception Handling 
+12.	Java Collection Framework
+	List, Set, Map
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-	Project 
+		Packages -> Collection of similar classes. Should be camelCase.
+			Class – Is a single entity which consist of data and methods
+					{data + methods (function)}
+			Java naming conventions: https://www.geeksforgeeks.org/java-naming-conventions/
+-	int, double, float, char, long, byte – primitive data types
+-	Integer, Double, Float, Character, Long, Byte – Wrapper classes
+		Objects can be created with these wrapper classes
+-	Object creation syntax:
+		ClassName object = new ClassName();
